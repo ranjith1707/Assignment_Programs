@@ -46,7 +46,7 @@ int check=given/2;
                 pointer++;
             }
  
-            // Inner loop 2 print star
+           
             for (int n = 1; n <= i * 2 - 1; n++) {
                 if(pointer>=s.length()-1)
    	  		pointer=0;
