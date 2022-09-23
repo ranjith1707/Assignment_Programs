@@ -10,7 +10,7 @@ class FirstClass{
 	}
 
 }
-class ParantCall_Childe extends FirstClass{
+class ParantCallChilde extends FirstClass{
 	public static void main(String[] args){
        ParantCall_Childe parant=new ParantCall_Childe();
        parant.myMethod();  
